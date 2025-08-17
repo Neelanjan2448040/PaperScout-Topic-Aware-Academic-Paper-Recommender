@@ -5,3 +5,4 @@ requests
 plotly
 sentence-transformers
 faiss-cpu==1.7.4
+rich==13.7.1  # Or another stable version
