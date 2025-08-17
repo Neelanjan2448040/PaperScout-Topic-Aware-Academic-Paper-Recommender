@@ -4,4 +4,4 @@ numpy
 requests
 plotly
 sentence-transformers
-faiss-cpu
+faiss-cpu==1.7.4
