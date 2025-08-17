@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-requests
-plotly
-sentence-transformers
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+plotly==5.22.0
+sentence-transformers==2.7.0
 faiss-cpu==1.7.4
-rich==13.7.1  # Or another stable version
+rich==13.7.1
