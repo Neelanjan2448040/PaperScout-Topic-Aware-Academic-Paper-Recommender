@@ -26,3 +26,18 @@ It aggregates results from multiple scholarly databases, applies semantic simila
 ✔️ **Advanced Filtering** – Year, domain, publication type, citation range, and sources  
 ✔️ **Citation Export** – Download results in APA, MLA, Chicago, BibTeX, or Excel format  
 ✔️ **Interactive UI** – Clean, modern Streamlit interface
+
+---
+
+## 🚀 Live Demo  
+🔗 **Try JOBI Match Now:** https://paperscout-topic-aware-academic-paper-recommender.streamlit.app/ 
+
+
+---
+
+## 🔧 Installation & Setup  
+
+### **Prerequisites**  
+- Python 3.8+
+- NLP
+- Git 
