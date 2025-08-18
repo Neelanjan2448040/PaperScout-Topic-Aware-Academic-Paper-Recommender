@@ -30,7 +30,7 @@ It aggregates results from multiple scholarly databases, applies semantic simila
 ---
 
 ## 🚀 Live Demo  
-🔗 **Try JOBI Match Now:** https://paperscout-topic-aware-academic-paper-recommender.streamlit.app/ 
+🔗 **Try PaperScout+ Now:** https://paperscout-topic-aware-academic-paper-recommender.streamlit.app/ 
 
 
 ---
